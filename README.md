@@ -34,7 +34,7 @@
 
 Depois disso, virei estudante do servidor. Comecei a acompanhar campeonato como quem acompanha final de novela, sentindo cada clutch como se eu estivesse lá dentro. Passei a frequentar Lan House como se fosse minha segunda casa — aquele templo onde o ping é baixo e a vontade de melhorar é alta — vivendo de treino, grito, zoeira e clutch duvidoso. Investi em skins, configs, treinamento, e fui moldando meu jogo na marra, no suor e no famoso “mais um mapa”.
 
-Com o tempo, meu estilo começou a tomar forma. Mira mais firme, mente mais fria, leitura de jogo que não vem de tutorial — vem de aprender a tomar bala na cada, respirar fundo, levantar e seguir em frente. Hoje jogo com a mentalidade de quem sabe que cada round é chance de escrever mais um pedacinho da minha história. Eu respeito o servidor, mas não peço licença pra entrar.
+Com o tempo, meu estilo começou a tomar forma. Mira mais firme, mente mais fria, leitura de jogo que não vem de tutorial — vem de aprender a tomar bala na cara, respirar fundo, levantar e seguir em frente. Hoje jogo com a mentalidade de quem sabe que cada round é chance de escrever mais um pedacinho da minha história. Eu respeito o servidor, mas não peço licença pra entrar.
 
 E sigo assim: evoluindo partida por partida, clutch por clutch, sempre atrás daquele sentimento gostoso de quando tudo encaixa e você pensa: o servidor vira território livre e eu viro vento."
   
@@ -49,16 +49,29 @@ E sigo assim: evoluindo partida por partida, clutch por clutch, sempre atrás da
 
   <table style="width:100%">
   <tr>
+    <th>Country</th>
     <th>Name</th>
     <th>Position</th>
   </tr>
   <tr>
+    <td>🇧🇷</td>
     <td>Circuito PGT BR</td>
-    <td>3rd Place 🥉</td>
+    <td>#3rd Place 🥉</td>
   </tr>
   <tr>
-    <td>TGC Rio Falls</td>
-    <td>1st Place 🥇</td>
+    <td>🇦🇷</td>
+    <td>Patagonia PLT</td>
+    <td>#2nd Place 🥈</td>
+  </tr>
+  <tr>
+    <td>🇧🇷</td>
+    <td>PGT Rio Clash</td>
+    <td>#1st Place 🥇</td>
+  </tr>
+    <tr>
+    <td>🇧🇷</td>
+    <td>CWB Even3 Colony</td>
+    <td>#1st Place 🥇</td>
   </tr>
 </table>
 
