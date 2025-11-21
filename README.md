@@ -15,16 +15,13 @@
     <img 
       src="https://github.com/user-attachments/assets/954f2e08-3f45-4f10-a0ae-26d508026336"
       alt="Image"
-      style="width:80px; vertical-align:middle;"
+      style="width:100px; vertical-align:middle;"
     />
-    <br>
+  
   </h1>
 </div>
 
 
-
-
-<br>
 <br>
 
 
