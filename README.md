@@ -11,23 +11,23 @@
 
 <div>
   <h1 align="center">
-    Counter Strike 2 Player by Team Boreal<br><br>
-    <img 
-      src="https://github.com/user-attachments/assets/954f2e08-3f45-4f10-a0ae-26d508026336"
-      alt="Image"
-      style="width:100px; vertical-align:middle;"
-    />
-  
+    <img width="1060" height="48" alt="Image" src="https://github.com/user-attachments/assets/f26b64b3-516b-4700-8105-8651a031c24f" />
+    <img width="441" height="75" alt="Image" src="https://github.com/user-attachments/assets/1e72ee5c-6c9b-4ae8-89b2-03f6b8578226" />
+    <div>
+      <img align="center" width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/ab277f9d-31c2-41e9-9027-e5d15620cd20" />
+    </div>
   </h1>
+  
 </div>
 
-
 <br>
-
+<br><br>
+<br>
 
 <div align="center">
 
-<h2>Biography</h2>
+<img width="402" height="80" alt="Image" src="https://github.com/user-attachments/assets/c404c119-37e5-4a43-9e08-431542587abb" />
+
 <div>
 
 "Minha história começa lá em fevereiro de 2013, quando colei na casa de um amigo e vi ele rodando o velho CS 1.6. Aquele momento foi tipo um highlight mental: tela piscando, teclado barulhento e eu pensando 'tá dando onda demais isso aqui'. Foi ali que o jogo grudou em mim.
@@ -45,7 +45,9 @@ E sigo assim: evoluindo partida por partida, clutch por clutch, sempre atrás da
   <br>
   <br>
   
-  <h2>My Awards 🏆</h2>
+  <img width="400" height="80" alt="Image" src="https://github.com/user-attachments/assets/f483fc62-661b-4af2-8cdf-f5810164a837" />
+
+  <br>
 
   <table style="width:100%">
   <tr>
