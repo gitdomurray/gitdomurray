@@ -90,7 +90,7 @@ E sigo assim: evoluindo partida por partida, clutch por clutch, sempre atrás da
 
 <tr>
     <td>🇧🇷</td>
-    <td>Circuito PGT BR</td>
+    <td>Corujão GC Londrina Open</td>
     <td>#3rd Place 🥉</td>
   </tr>
 
